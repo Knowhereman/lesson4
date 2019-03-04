@@ -125,7 +125,8 @@ ul.menu > li:hover > ul.submenu {
 }
 
 .shadow{z-index:2;
-box-shadow: 2px 3px 4px rgba(0,0,0,0.3);
+		box-shadow: 2px 3px 4px rgba(0,0,0,0.3);
+		position:relative;
 }
 .main { overflow:auto;
 		position:relative;
