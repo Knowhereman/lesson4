@@ -20,7 +20,7 @@ body {
 		margin-bottom:0;
 }
 .logo{
-	 	margin-top:80px;
+	 	margin-top:50px;
 	 	display:block;
 		
 	}
@@ -30,7 +30,7 @@ body {
 		color: #128aa7 ; 
 		float:left;
 		font-size:10px;
-		margin-left:70px;
+		margin-left:30px;
 		background-image:url(../image/palm_tree.png);
 		background-repeat:no-repeat;
 		background-position:100% 100%;
@@ -73,7 +73,7 @@ body {
 		position: relative;
 		margin-top:0px;
 		background:#4f4e4e;
-		padding-left:25px;
+		padding-left:20px;
 		z-index:2;
 	}
 ul {
@@ -122,10 +122,11 @@ ul.submenu > li {
 }
 ul.submenu > li > a {
     	display: block;
-    	padding: 10px;
+    	padding: 11px;
     	color: white;
     	background-color: #4f4e4e;
     	text-decoration: none;
+		text-align:left;
 }
 ul.submenu > li > a:hover {
     	text-decoration: underline;
