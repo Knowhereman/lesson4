@@ -101,11 +101,11 @@ ul.menu > li > a:hover {
 ul.submenu {
     	display: none;
     	position: absolute;
-    	width: 120px;
+    	width: 135px;
     	top: 37px;
     	left: 0;
     	background-color: white;
-    	border: 1px solid red;
+		text-align:center;
 }
 ul.submenu > li {
     	display: block;
